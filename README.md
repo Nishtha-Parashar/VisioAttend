@@ -1,1 +1,2 @@
 # Face-Recognition-Attendance-System
+For using this project, just add all the .jpg,.jpeg (pictures) in a new folder named "Images" and then run and the program will detect the person in the webcam and recognize it with the name already provided in the Images folder. It wll also display the name and the time of detection in the Attendance.csv file. Once a person is recognized and it's time is enterred in the Attendance file, it will not change the time if again the same person is detected.
